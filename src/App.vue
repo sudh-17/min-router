@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/RouterComponent.vue'
+import HelloWorld from './components/FounctionRouter.js'
 
 export default {
   name: 'app',
